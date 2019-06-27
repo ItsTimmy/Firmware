@@ -61,6 +61,7 @@ px4_add_board(
 		navigator
 		sensors
 		vmount
+		test_boi
 
 	SYSTEMCMDS
 		bl_update
